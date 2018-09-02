@@ -1,4 +1,4 @@
-GIS-Articles
+## GIS-Articles
 
 ## Instructions
 
@@ -32,9 +32,9 @@ GIS-Articles
 
 Resources for writing Tech articles and publishing it to the Medium.
 
-[Publishing the article to Medium](https://medium.com/@ThePubsTeam/become-a-publishing-workflow-expert-b067e720b7da)
-[Medium Publisher's Guide](https://help.medium.com/hc/en-us/articles/115002870328-Publisher-s-Guide-to-Medium)
-[Writing Tools and Resources](https://www.brandwatch.com/blog/29-writing-tools-and-resources/)
+1. [Publishing the article to Medium](https://medium.com/@ThePubsTeam/become-a-publishing-workflow-expert-b067e720b7da)
+2. [Medium Publisher's Guide](https://help.medium.com/hc/en-us/articles/115002870328-Publisher-s-Guide-to-Medium)
+3. [Writing Tools and Resources](https://www.brandwatch.com/blog/29-writing-tools-and-resources/)
 
 Happy Learning Everyone !
 
