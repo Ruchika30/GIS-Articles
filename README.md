@@ -30,6 +30,14 @@
 
 12. Please don’t send unnecessary requests for publishing article on the Publication unless you are allotted a tutorial topic in a task list.
 
+Pull request format 
+
+While Self Assigning the Task **Self Assign (Task No)** or **Task Assigned (Task No)**
+
+After Completing the Task **Task Completed (Task No)** 
+
+*It is not neccessary to maintain the same format. Make sure it is meaningful or else you will be creating the Pull request again as the old one will be closed or revoked.*
+
 Resources for writing Tech articles and publishing it to the Medium.
 
 1. [Publishing the article to Medium](https://medium.com/@ThePubsTeam/become-a-publishing-workflow-expert-b067e720b7da)
