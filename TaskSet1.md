@@ -10,7 +10,7 @@
 |3.|IndexDB with Promise||||
 |4.|CSS3 Grid||||
 |5.|Service Workers and Benefits||||
-|6.|React Basics||||
+|6.|React Basics|@Karthikeyan.mws||:x:|
 |7.|Progressive Web Apps||||
 |8.|What's new in Angular 6||||
 |9.|Basics Of Git and Github||||
