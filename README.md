@@ -30,7 +30,7 @@
 
 12. Please don’t send unnecessary requests for publishing article on the Publication unless you are allotted a tutorial topic in a task list.
 
-Pull request format 
+**Pull request format** 
 
 While Self Assigning the Task **Self Assign (Task No)** or **Task Assigned (Task No)**
 
